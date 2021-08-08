@@ -8,6 +8,11 @@ int main(void)
 {
     fstream file;
 
+    // uncomment if you're on linux machine this will delete you're program after file generate
+    // system("rm -r README.MD");
+    // system("rm -r run.cpp");
+    // system("rm -r a.out");
+
     long long int i, limit;
     string str, msg = "";
 
