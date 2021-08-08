@@ -8,7 +8,7 @@ int main(void)
 {
     fstream file;
 
-    // uncomment if you're on linux machine this will delete you're program after and readme file on execution
+    // uncomment if you're on linux machine this will delete you're program and readme file on execution
     // system("rm -r README.MD");
     // system("rm -r run.cpp");
     // system("rm -r a.out");
